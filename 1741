@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1741",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYEy3afXkUXxvf5kW3rukVhEmVJ9U82u9xKLaeeGmEJ8s",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Zombie Finger"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}
