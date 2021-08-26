@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #2203",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmPWNkPATTCvY4GJBgQ2ju3LTTgu3WNTxxhKrYWQ3SkDN2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Health"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Ring"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "TheCoinGirl"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #2357",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmc1tNntwWUyEwyteaw9ULLPTNp5kFFE8JiZhvfp9cEP7D",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Kalii"
+    }
+  ]
+}

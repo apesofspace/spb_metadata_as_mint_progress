@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #2600",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmepVNgpLVNeh7XeWrya8rvfQfGNjFUNoRRWZNvctu2mU2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Wire"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Miraz Aslan"
+    }
+  ]
+}

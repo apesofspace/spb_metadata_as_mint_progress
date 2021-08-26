@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #2234",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTMtuBsYGTtf1pYS9RvcFhk6XzNy9DeMjizRPk1E3Zqn8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Key"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Whiskey"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}
