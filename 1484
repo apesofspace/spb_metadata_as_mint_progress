@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1484",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYP4uFErVdzMBuS9EWDfU8bNdxTpqrWi2pbcT7M7U4WSU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flycatcher"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1473",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmZTqRbt7gdCSxbfo6DCmEYheyYhHfCVVAWa6pDyE2LusW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

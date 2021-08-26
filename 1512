@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1512",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmc1VMiiBkmUWxFmgLdN8P23P9Uqr7y3PwFvoJQumU6LFW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

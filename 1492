@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1492",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmenFE6NUU8C64N3KX9ngmEgpjcjMvNHtuAQ74Ymq7cbkJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Whiskey"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Worm"
+    }
+  ]
+}

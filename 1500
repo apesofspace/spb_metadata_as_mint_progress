@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1500",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRmmWk8DBHTgoju6uz6nZWYNBece5SUpEpZNc3LKgnkKR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Love"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

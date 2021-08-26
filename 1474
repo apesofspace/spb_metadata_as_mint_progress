@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1474",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaXeaafrAGatUqwVKUVBsU8ZhjiRY3mznoZxe8W1R27FJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Jellyfish"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

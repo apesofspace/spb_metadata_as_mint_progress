@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1506",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmeEeGgfLqgcbRFAt2WAtH2CxHyiaw4rKZs3PwKvN2p9Cx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flash Drive"
+    }
+  ]
+}

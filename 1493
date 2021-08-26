@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1493",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmVoYg8WsFpNKWX9TshYxDYjLcAykPK1XpsSGLagJMfSLH",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Love"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

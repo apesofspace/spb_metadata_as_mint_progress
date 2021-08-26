@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #1496",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTPWtLfntMHvTbU8NXcndAHW4SxzCwUrcrVTMKA9A6a2B",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Syringe"
+    }
+  ]
+}
