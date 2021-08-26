@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #604",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUdPb4ussPj4yYpEUAXWArMbjcSFsuWNkpindTZS1yVAi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Sushi"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "FlameCryptos"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #532",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmcHTdhvuj7yFrrofDJBU8MSCmZdJ9fSM3v6E6wdBT11WL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Health"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}
