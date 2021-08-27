@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5850",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUdXQ7Hd6scnoB7ZMLpPgwnYakWCueBYH68vw55AaFP9S",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Health"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

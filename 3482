@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3482",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbtjfWCFZQzcQ8tMi4KbVsfWNAJez2myovd1UffT7MED1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Eye"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Zombie Finger"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Chocolate"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

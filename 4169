@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4169",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmdt56Q8i8MTKwtV8wkp2zL9JjAheYgMqrvz1XD86XWzuC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4235",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUjrEpKAWWyVr8ktzpn2zWR3dNB8ErSwtMUnqoGunpWSc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Bone"
+    }
+  ]
+}

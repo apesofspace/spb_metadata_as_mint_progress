@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3295",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXDNx6Jd28u9UXS8b9aDXh8BFMtvDRMq5xDvDXM6jd6xx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

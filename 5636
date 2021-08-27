@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5636",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmX9mf527ZBmAb4LkCbxAb6iJQvuKYAcNTFPjZcYeDr2Gu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Eye"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

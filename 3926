@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3926",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQqKiRepkCLxL2jdXWD51iCC2zrEnhWhkn6J2unegeuAS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Syringe"
+    }
+  ]
+}

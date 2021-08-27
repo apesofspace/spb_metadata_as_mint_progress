@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5868",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWuqJsik8H8cYfV7wNqZPZe1eJA1CoHcS1ZQMBeTogjfe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Syringe"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5073",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmZui6pJ61i2xrg5uH27M23ec1DEdCBCnYQpUcdstdPRtL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

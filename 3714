@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3714",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmfYfHG1joN2W7P77ZaEMt34jiFPN2QZNjSVx5LBUTm34j",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

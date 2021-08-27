@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3494",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTH7YTJaE2M6bbkEUNBXvPeFn64g4tAiri1sG1W1uqMzQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

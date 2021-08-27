@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4526",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTCp6B3UDQS28A75sYbe1GrnHDPc5B3HzrY2W3LjtC8Db",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

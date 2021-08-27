@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5998",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmfVsUSkiGmKbe6QkK3ucFFwQmxTfDxQmVGfZoi43jSZLv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

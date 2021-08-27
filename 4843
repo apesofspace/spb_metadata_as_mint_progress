@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4843",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXa631SzyqZHtcvKESvhRuBcGzp3DFkXxqPBx5JppGQwj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Tesla"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5493",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWZBYFKbRWtnH2NEkZMwAxSanFLVricNQPn5xsYfw9SFQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Fishes"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

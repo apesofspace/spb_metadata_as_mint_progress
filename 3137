@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3137",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmPvxnCaPuzqrdKPXHfbcVy5ccFWzYAXLnYGxiQkrczxjz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

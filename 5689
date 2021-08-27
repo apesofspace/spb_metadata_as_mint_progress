@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5689",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQ9pd2MXbFFbm2KURCtCSRFKCJLVFj7AC5hvP1FAiSFLk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Vegetables"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Syringe"
+    }
+  ]
+}

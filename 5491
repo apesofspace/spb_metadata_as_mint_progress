@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5491",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmdCyXhiw6myhppaR1YGzo3ptZYa7kMkXg45E82m2YgCwz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Vegetables"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Cigarette"
+    }
+  ]
+}

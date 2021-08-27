@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4905",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmcxKap3YEsEj6G1KWwq1JiKiP9jD2gAdHZCZc5wBmoHdz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

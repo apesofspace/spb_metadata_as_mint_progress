@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4924",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmdTRU7it7P7w7H41ep9hns6D515feuDkD2iEK9SiJ5Ahf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flag"
+    }
+  ]
+}

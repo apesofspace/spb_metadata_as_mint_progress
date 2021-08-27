@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3170",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNdp5MKGC6jHhccZLfCiWoCTm7kJTHYNc69Sz8VYJ9qLV",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flash Drive"
+    }
+  ]
+}

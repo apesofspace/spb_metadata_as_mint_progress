@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5411",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmW7MYxRpggV2LwC5fPrWtZXz83HPVoPsdPXdKCwFdxSp8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Chocolate"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

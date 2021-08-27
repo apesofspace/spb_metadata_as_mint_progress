@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3396",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNgYaFHMNDmQeG8fEzY9nRpNWPNn3aRovxpyPgUHMjwJs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flag"
+    }
+  ]
+}

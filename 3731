@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3731",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWfgwQwPto89miT2VToW53HqDdWyhS4HHED7FhqyUho5L",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

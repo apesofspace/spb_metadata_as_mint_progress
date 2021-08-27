@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4414",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbPJsdr2bNSYDLEgtraKUcGoerL5WLriXBU6G9T48FJ2n",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

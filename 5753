@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5753",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmeXqfHTuxEs5HyCBpy3kZGWyRgPGRF3Zo9mUM77Vz6j5g",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Magic"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

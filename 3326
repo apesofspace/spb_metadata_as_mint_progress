@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3326",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTf1TrCWMTv1DWaRSaCTG7kv1u1ep52nL1cBAgEN4DNti",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

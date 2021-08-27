@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5119",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUQuJMt6JoAT5S6StXEWKbA9o2PwshUnE33k1tqmiBG61",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

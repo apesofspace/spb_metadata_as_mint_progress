@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3518",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbR6yvjrVf6EErqG7J7CHhseMzkZZibNiAVWw3D3yUGJ5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Health"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

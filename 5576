@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5576",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQtsm5wRf293u2uNH2XqyTtgnHD1VTM1bzANJtRTC1asP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

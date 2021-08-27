@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4873",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNjY5847cecPFKFWZgm75B3JDHW8rwqpb6rdGkm8TvUZN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Bottle"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Wire"
+    }
+  ]
+}

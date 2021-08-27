@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5812",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmZuannQ6LrRvtPyhQt7dVQDsz8rJWqWFCLkLoYPn1V5K6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flash Drive"
+    }
+  ]
+}

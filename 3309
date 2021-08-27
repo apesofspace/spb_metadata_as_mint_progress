@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3309",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYgvJ6JaEamDGYCszMRKjuedZh8YJNgHHARcjdPzV2JEs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flycatcher"
+    }
+  ]
+}

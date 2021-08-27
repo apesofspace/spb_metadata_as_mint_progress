@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4346",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmcBYbi1nMgwPAGYcorZ5m3H8qzAa9EPmHQCD2eh2f5vAF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bezos"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Orange Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Cigarette"
+    }
+  ]
+}

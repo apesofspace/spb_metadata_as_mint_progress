@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4079",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUQV5iH6dN2mpKsxQgU4Nzk1i1typgUeyAacsW2CvXii6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Eye"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4738",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXoZ9Wdb9yzNqhjmX2W4N96f2Woa8RZm7LdV6R8AMaLcA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bank Card"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Worm"
+    }
+  ]
+}

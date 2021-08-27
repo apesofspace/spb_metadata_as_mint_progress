@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4915",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUK6svk6aDrU7oSoWpwzBt7C7Y855y1gCWXuhEmK4cDW2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Headcrab"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

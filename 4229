@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4229",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmd1Dxs2GGhr39JQJ63iHP2aPpRN9JM4YiubifrgTt3kLi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

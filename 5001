@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5001",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmSDiigixvS1xe3U1kRdN46uyXmE7HV4hDpQEUHpmay7VX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

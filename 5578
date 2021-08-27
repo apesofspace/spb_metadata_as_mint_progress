@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5578",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbxD4efAcTiCfEV4xWjXZrHvmWQZQdfVo7peT9CBKwkf5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

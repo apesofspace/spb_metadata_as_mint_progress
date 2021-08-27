@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4134",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmfDhA9u1fkd3FhkTKLfimFCAvfPKyvWRQZt5XcyKxhWax",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Whale"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Sushi"
+    }
+  ]
+}

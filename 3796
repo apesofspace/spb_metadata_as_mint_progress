@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3796",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmReo2t3eCWbFnssBjKQQHov5enb1Tj3To7WEzciwm8uuk",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bezos"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

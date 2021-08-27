@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3285",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQ4bP8Q2fvWTMgFifLeZvZG5p9jrBmC3DFVpSy5kGJxEN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Sushi"
+    }
+  ]
+}

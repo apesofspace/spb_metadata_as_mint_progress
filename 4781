@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4781",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmZdwdRRJAFtYCGbiNa5u9FkrDB762f7nCSZ8Qm8myuUjE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

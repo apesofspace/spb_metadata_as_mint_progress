@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4993",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qma2mQgq4baFxz7fCBSW294tPbrDtX3D8hjqnmoy7ZmkMP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Wire"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "JaspeR"
+    }
+  ]
+}

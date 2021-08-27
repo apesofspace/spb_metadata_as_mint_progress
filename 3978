@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3978",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXgpFcVNHHD2Yf5aB8RpwR2cQdJbLKazEfq9PEKsJHKwX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Surprise"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

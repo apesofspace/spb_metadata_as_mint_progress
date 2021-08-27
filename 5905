@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5905",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmcvFzdGqWKcx8Q3UnVrpytKqCvr4LJhLnAn88YE1FJVFp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Fishes"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

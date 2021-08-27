@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5575",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNYYeUgKTtj77xxZ4fZXVy7zC53Sy1KcbJqC6NZDaLY2s",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Sushi"
+    }
+  ]
+}

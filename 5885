@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5885",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmb8R7vzi6eZmB6N72VPdPi3vFd9PyEj3QwSh9UkBzsQT4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Syringe"
+    }
+  ]
+}

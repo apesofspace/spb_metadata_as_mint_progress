@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4812",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWRWcdK7fHeA8t92EFT3BLvnqN79YR6PGiF94bBm16Hko",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

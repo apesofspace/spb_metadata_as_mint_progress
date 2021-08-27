@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3214",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbT7F5PZBZRzA24g9r9xYpKTWL15F6bSdzM7dJ2x3ZkK5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Love"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

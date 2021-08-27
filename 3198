@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3198",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRdTeZvffGG3iQt8qE4TzjZgoyyhy5NTxPD6dZmUMHHrQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

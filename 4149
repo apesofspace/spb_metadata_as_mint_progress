@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4149",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRDwC7p2CKGHod9yvA9bsDJAqnHTasjvDZ7JW11zbaGp1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4565",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qma1XCGYG8Erh6cTdTPJNvfqboot7wfsfJipJ1TDALw2AA",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

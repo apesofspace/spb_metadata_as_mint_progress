@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4363",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWv9FKyY2iRVSjbag4bU3ct1JDgAWqfo3WLoMXc4EEgGM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bezos"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

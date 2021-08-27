@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3609",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaVUjgn6ZULP7pCFdZ4Lqrd2PxSSGxf5EgCYVGYeQg1nt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ship"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Food"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

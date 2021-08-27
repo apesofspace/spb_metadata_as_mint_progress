@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5510",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNjN8zdRA5JdrQ2t3N5vSav1JLUx3wt2gfJjii5popFhs",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flash Drive"
+    }
+  ]
+}

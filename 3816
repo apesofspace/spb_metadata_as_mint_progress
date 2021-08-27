@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3816",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmSE9Vm8zznNJ1oTK14CTnLmgmKDGefwTRrAxmLGm5axUz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Food"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Candle"
+    }
+  ]
+}

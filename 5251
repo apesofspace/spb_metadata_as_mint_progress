@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5251",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRUYu6kWF3PCuVN5Yv9mrqRrg5un7tRHDHLim8XcDyZp6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fork"
+    }
+  ]
+}

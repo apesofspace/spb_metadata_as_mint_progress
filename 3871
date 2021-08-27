@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3871",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmSa2BLB2MFyi89EFzk49RfjVYS8gYtpSUAgJM6KmV4cey",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Food"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Love"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

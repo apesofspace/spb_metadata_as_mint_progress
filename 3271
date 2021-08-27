@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3271",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbFBXCV64FBNwKETRJvJjD3J75BBcesDFU1Wz5ecYfRXL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Sushi"
+    }
+  ]
+}

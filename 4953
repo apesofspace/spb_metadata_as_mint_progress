@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4953",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmeGDHfkEkGyqYGkrzzeLpCQnuLyewUdsZ7Ffh8C2Jyk17",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Shell"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

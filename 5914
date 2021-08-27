@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5914",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmd8wBcjftag1wyxQddvXNeKUdWXEcqxte1t1hLmZD8Suc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Wire"
+    }
+  ]
+}

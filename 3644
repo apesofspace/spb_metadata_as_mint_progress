@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3644",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRfRbcKMjwyZkDBv6vshzB4krgaJ2ov6Gr6RUHERTsHPc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Chupa Chups"
+    }
+  ]
+}

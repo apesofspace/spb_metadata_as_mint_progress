@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3792",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaZK6PNi1fS6A4PecxFSvihAfNZi7g4GPpsjCUQFq5BnY",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "The Martian"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

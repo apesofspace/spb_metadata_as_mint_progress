@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3123",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRnaij7SMnG3th1tqLcgcAFriaE4qHDFP2kmHMGEhotnb",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sponge"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5485",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmatJZwByzi7GtkW6JvqZH1my1buwBqSAhcsLnahNgneMr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ship"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cucumber"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    }
+  ]
+}

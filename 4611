@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4611",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWw5m9BY9D6gCi5mXJM1HZvqopWpwYaPv3x7D3udzPpbD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Zombie Finger"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flash Drive"
+    }
+  ]
+}

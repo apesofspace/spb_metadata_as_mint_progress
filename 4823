@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4823",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRjLHTuBxX29fhip3rdewcyprfcpKqVHDZqeSeNtJJtPx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Worm"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3232",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXmGANCGFuEYaq3x6bxvBxD45HY6cyaPDQK6X94hmoyxY",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

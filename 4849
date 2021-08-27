@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4849",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmVFpvzoCHwjLm65wyTcvfStvQgV5FgsQXBe5J1TspF5v9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fireworks"
+    }
+  ]
+}

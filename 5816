@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5816",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmVUTyFCwAYuwprMs8HcAXoFJsH3yHxSSLXUMhikxQ5Lpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Bone"
+    }
+  ]
+}

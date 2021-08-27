@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4454",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmS7F4CmVYqhgfNArYNWM6XuLbeLvJJ6eUSkpsSgPT4fx7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Ring"
+    }
+  ]
+}

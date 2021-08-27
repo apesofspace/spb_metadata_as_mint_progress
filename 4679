@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4679",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmdCS5EZ7RS5KbTZUmRhMWDTuF9tu2aktynUiuVEAo1Cwu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Toy"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

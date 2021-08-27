@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4030",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaDf6kz3qL3EEY9M8ZFmHaw6DdrNE7vC7ewdPzoEeFAPS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Bone"
+    }
+  ]
+}

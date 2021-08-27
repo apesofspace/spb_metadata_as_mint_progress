@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5254",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaysszJTStFZ9Xsswc2UQtT4YKoyrNXRZKW6bdWb1YUef",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Whale"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sponge"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Nail"
+    }
+  ]
+}

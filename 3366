@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3366",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYiPH9D2WQZiBpsiKjeicv4ef9QgtejnZhWLviomJcVUi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Worm"
+    }
+  ]
+}

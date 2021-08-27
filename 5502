@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5502",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmUEnHbRW1fXqri6MMwNThB8sF6ZdwRnmfR2ZUdmBxKXhL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

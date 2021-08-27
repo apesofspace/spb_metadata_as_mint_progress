@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5050",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmf2DuDhJ4rxXG2B39yKZLXygup3n7KVRdjp1BdDjgR6ZS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

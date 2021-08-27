@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4764",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmboSaeAYeHMGB4bUL5uo5tx8FZY2uXPQdZj7iPNinqcTL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "The Martian"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Bone"
+    }
+  ]
+}

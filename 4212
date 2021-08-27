@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4212",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbH7tayt7cALswiqDM3ArVSB62hfNxWNdwGU7nxHBGbgQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fireworks"
+    }
+  ]
+}

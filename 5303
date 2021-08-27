@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5303",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmavvDo6BzA7iStiU3Hsmpx5mBct6UNf1GmZBf2XY3JL4J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Dumplings"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Needle"
+    }
+  ]
+}

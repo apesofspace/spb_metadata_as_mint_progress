@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4003",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmR8RbG67ve6gZk3z6GYtPXkntj3z2NC6RLHZV815qwdos",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Magic"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Corkscrew"
+    }
+  ]
+}

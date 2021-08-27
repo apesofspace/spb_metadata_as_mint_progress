@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5426",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQbYaavntXPg6RM4W9Bvw5MSkhXNyU8EUiwwoXens97gB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

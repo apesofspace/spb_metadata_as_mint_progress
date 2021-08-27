@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3392",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmehQqQXwyoT7rg7R4K9qbT5RVEo6EQPseWe9PJMbPgnUX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Ring"
+    }
+  ]
+}

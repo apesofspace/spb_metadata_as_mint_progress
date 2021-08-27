@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5292",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQPryiFAhJHptZa5vyEAVUKHCcYAU65W4L6r3jh24vjC3",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Planet"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4354",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbNfV7v5r19zWYFFnrkvJTXj1myMKHuJda9WW2CcsmmZB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

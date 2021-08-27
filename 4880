@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4880",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmPET89na5g9Nv4qA6p4dcVBNWfoS1bN7PD1VtUJs8cP7J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ball"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Wire"
+    }
+  ]
+}

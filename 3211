@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3211",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQRbjGGbi5YA6meg4SMfp5xSXvDkQPN1MEe7oCRX4T8E7",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Cigarette"
+    }
+  ]
+}

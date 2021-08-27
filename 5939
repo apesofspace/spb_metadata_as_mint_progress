@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5939",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYUk6qyxpjEiY8uvifzSpp1geN4zPNN4U5ZHwtFY446Qe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Jellyfish"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Toy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fireworks"
+    }
+  ]
+}

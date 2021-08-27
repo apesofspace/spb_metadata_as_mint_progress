@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4793",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmNbqmGB6XRVP1AraFMjbC3Qdr5WAHEWESLsvdcsBXmWRp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    }
+  ]
+}

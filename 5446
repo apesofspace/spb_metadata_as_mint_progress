@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5446",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmfFqnRp2jqZQxDQ7vrjfJ1a6Whu8rNdXXDXr9sxcaCsai",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3460",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmanEhgXhDmrJLKJ2xYUxxHzXgM3efCfeMAq69wUysR8r5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Shell"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Cigarette"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5162",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaJKZsZKgi8qHeP2Yf3NCHPz5PCnuu6tLtQPGNp6yY6gx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Magic"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Ring"
+    }
+  ]
+}

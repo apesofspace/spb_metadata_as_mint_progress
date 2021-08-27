@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4168",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qma1XeLRHmiecYhgMP4bLFd4GSy2tPQYxSL1Mro83k1aC8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Apple Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

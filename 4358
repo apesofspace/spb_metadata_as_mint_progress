@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4358",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmb3vNmK7ViJ5iybjBgAT7NjKGrXQmu8UVRvpTRVCwkDsN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

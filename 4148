@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4148",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmdvBMRFYdCg1v7om8XmnUboAmSXfPCeCXZNgmdw7jRy3M",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Coffee"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Needle"
+    }
+  ]
+}

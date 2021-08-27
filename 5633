@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5633",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmS7SgnUG6GAfDDvZf6VRy8bHf4W3STMV4aKJpP2D1ip33",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Ticket"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Potatoes"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Whiskey"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

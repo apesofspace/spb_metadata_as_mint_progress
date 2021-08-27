@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4017",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmPvp4rDaTppjgUiQcZrZ9g1vsnJqa3SsynTu7VWkr3MuP",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Dynamite"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fireworks"
+    }
+  ]
+}

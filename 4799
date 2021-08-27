@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4799",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmafr9TfFP1UHEcrGnvM75ynhx5RVqYKUbzyRDfHgtPmbj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sponge"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cherry Juice"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

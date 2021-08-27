@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3613",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmaTvYJ6aNXDchBqYDz2ejsLShTenoveTGhU4TgLxyBzun",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Vegetables"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Needle"
+    }
+  ]
+}

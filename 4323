@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4323",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmXCHyz2LSLdvaYbnEug5HPRwVhBchJASgnW8a9wJ4G8ZJ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Fireworks"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4258",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmfSpWU6v2vh4QRxm5zjBgxP1QbnKtNvpbUXQNgM3AJuzd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Smartphone"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flycatcher"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3184",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qma1yyi6bzYpsW2EYhW5Eq3QmREvvuH5HxoGrDAV6g5oaT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Lemons"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Love"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

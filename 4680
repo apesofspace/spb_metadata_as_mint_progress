@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4680",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmSfmsffL7d98kKJPv98XWmfJ4X2ncMbASKvtRU2i6Bfsy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Bottle"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Needle"
+    }
+  ]
+}

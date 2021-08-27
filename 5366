@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5366",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWwqToZstyP5JSk5wd6DAXmNccCDZeX4eQ4caigZXPRsX",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bezos"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Ring"
+    }
+  ]
+}

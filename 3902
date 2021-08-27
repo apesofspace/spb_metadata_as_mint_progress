@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3902",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qma3oj5JurWs1FHEdC8B4y2EcSWtUFfWq9rWCeqCrjJbPE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Vegetables"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Chocolate"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    }
+  ]
+}

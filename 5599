@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5599",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qmc8NhQfBKg1upbKq848A9bHvxb2Sh2ARFvmGHk1BL8cbu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

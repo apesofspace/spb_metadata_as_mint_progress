@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4775",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmY9uMbFbXYUBif1gkUtTmQdMAm2ggYkkgHKDXcwxUDN1K",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Spider"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Cola"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flycatcher"
+    }
+  ]
+}

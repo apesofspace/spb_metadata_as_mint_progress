@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3132",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmVsxshQT8YYioq5QAswcs2JZMCvDsSP9xcP2UhFSTBBF9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Rag"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    }
+  ]
+}

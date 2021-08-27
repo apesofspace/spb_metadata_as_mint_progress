@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4666",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmRhi6HafBkD72Vnpv17cVniY8ZZ8Uu3UjZ1dR5XPaRh7c",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Bank Card"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Toy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

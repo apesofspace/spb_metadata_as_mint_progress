@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4562",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmPNns9yr78pJTyJUUvHzvFSU4jBYkZE7sR7sVJuLF9mHF",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Shell"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3055",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWx9x4Zg6vvkdW9byJ9eap9w4YqmWKYb2i1bnfp5mpY7R",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Fishes"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Toy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Flycatcher"
+    }
+  ]
+}

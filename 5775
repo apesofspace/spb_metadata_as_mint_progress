@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5775",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmSdd94DEcpbKjaqXQjSjrYZgaJh68npzTZx7ZinbkH8m9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Trash"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Cheese"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3748",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/Qme8BK6pE3UqCdJRDDd7hLUaaHngJb9g9CLSv5WfbEjnJW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Money"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Fanta"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

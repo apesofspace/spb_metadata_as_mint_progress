@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5584",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmTSj5jZD1axQVxE1sLMNHF1yy8BEJQDFij78qztP6Qujt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Health"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "CryptoCarti"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4592",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmbtewNwYEBKLbJGyfTpiVXHrFPXdeh5ukqGk915oXuVLQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": ""
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Energy Drink"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    }
+  ]
+}

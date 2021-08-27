@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3443",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWjXU6B4c9TpqSQgvEHqfLVmLoSVG2T3oDygesZVaEjgQ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    }
+  ]
+}

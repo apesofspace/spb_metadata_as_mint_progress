@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #5828",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQaS4kWK4ZDFR5kXWaP9SwDF7c8LNPEo7YjHr4L2PJ4Vv",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Gray"
+    },
+            {
+      "trait_type": "Cork",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Mana"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Onii"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3114",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmWHBFCTDkP5oR5zv9iQuJ95WpZFUs7zwGKRD9rEiDNg7b",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Cucumbers"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Elixir of Magic"
+    },
+    {
+      "trait_type": "Insert",
+      "value": ""
+    }
+  ]
+}

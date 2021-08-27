@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4124",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmS2DMvZT7YJ4JVq4fiLhk8tKcn7y77skD8nLHV6R1Kwd9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Fishes"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Jelly"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    }
+  ]
+}

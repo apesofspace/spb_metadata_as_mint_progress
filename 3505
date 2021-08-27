@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #3505",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmQY5usnreLyTHuoPMRidKzYCSUFyipWe5yK2ry7oFiL9h",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Float"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Tentacle"
+    }
+  ]
+}

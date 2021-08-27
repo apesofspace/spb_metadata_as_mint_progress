@@ -1,0 +1,27 @@
+{
+  "name": "Space Pirate Bottles #4441",
+  "external_link": "https://spacepiratebottles.com",
+  "image": "https://ipfs.io/ipfs/QmYc5NHrox75A46hh2k7wp6wqGH7kuWs5gYotyoqLyryDp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Stuffing",
+      "value": "Berries"
+    },
+    {
+      "trait_type": "Cork",
+      "value": "Branch"
+    },
+    {
+      "trait_type": "Bottles",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Insert",
+      "value": "Skeleton Hand"
+    }
+  ]
+}
